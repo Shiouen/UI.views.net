@@ -25,7 +25,7 @@ function onLoaded() {
 // student selection //
 ///////////////////////
 function selectStudent(sender) {
-    selection = sender.GetValue("Name").replace("_Student_Panel", "")
+    selection = sender.GetValue("Name").replace("_Student_Panel", "");
 
     if (currentStudent == null) {
         currentStudent = selection;
