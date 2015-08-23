@@ -1,86 +1,197 @@
 ﻿// Global variables.
 var xamlPage = null;
+
 var courses = null;
+
 var students = null;
 var currentStudent = null;
-var minMaxToggled = false;
-var meansStdDevsToggled = false;
+
+var meansStdDevsExposed = false;
+var minMaxFocused = false;
+
+var highestScoreBorder = null;
+var highestScoreText = null;
+var lowestScoreBorder = null;
+var lowestScoreText = null;
 
 // Constructor.
 function onLoaded() {
     xamlPage = document.getElementById('StudentViewPage');
-    courses = (xamlPage.content.findname('Courses').text).split(" ");
-    students = (xamlPage.content.findname('Students').text).split(" ");
+    courses = (find('Courses').text).split(" ");
+    students = (find('Students').text).split(" ");
 }
 
+///////////////////////
+// student selection //
+///////////////////////
 function selectStudent(sender) {
     selection = sender.GetValue("Name").replace("_Student_Panel", "")
 
     if (currentStudent == null) {
         currentStudent = selection;
-        toggle();
+        set();
         return;
     }
     if (selection != currentStudent) {
-        toggle();
+        reset();
         currentStudent = selection;
-        toggle();
-        if (minMaxToggled) { toggleMinMax(); }
+        set();
     }
 }
+///////////////////////
+// student selection //
+///////////////////////
 
+///////////////////////////////////
+// means and standard deviations //
+///////////////////////////////////
+function exposeMeansStdDevs() {
+    if (currentStudent == null) { return; }
+
+    meansStdDevsExposed = true;
+
+    exposeScores();
+}
+function hideMeansStdDevs() {
+    if (currentStudent == null) { return; }
+
+    meansStdDevsExposed = false;
+
+    exposeScores();
+}
 function toggleMeansStdDevs() {
     if (currentStudent == null) { return; }
 
-    meansStdDevsToggled = meansStdDevsToggled ? false : true;
+    meansStdDevsExposed ? hideMeansStdDevs() : exposeMeansStdDevs();
+}
+///////////////////////////////////
+// means and standard deviations //
+///////////////////////////////////
 
-    courses.forEach(function (entry) {
-        stdDevBorder = currentStudent + "_" + entry + "_StdDev_Border";
-        meanLine = currentStudent + "_" + entry + "_Mean_Line";
+/////////////////
+// min and max //
+/////////////////
+function focusMinMax() {
+    if (currentStudent == null) { return; }
 
-        toggleElement(stdDevBorder);
-        toggleElement(meanLine);
-    });
+    minMaxFocused = true;
+
+    exposeScores();
+
+    minMaxText = find("Min_Max_Text");
+    minMaxText.text = "Alle vakken";
+}
+function unfocusMinMax() {
+    if (currentStudent == null) { return; }
+
+    minMaxFocused = false;
+
+    exposeScores();
+
+    minMaxText = find("Min_Max_Text");
+    minMaxText.text = "Minimum en maximum";
 }
 function toggleMinMax() {
     if (currentStudent == null) { return; }
 
-    highestScore = null;
-    lowestScore = null;
+    minMaxFocused ? unfocusMinMax() : focusMinMax();
+}
+function setMinMax() {
     initScores = true;
 
-    minMaxToggled = minMaxToggled ? false : true;
-
     courses.forEach(function (entry) {
-        scoreBorder = xamlPage.content.findname(currentStudent + "_" + entry + "_Score_Border");
+        scoreBorder = find(currentStudent + "_" + entry + "_Score_Border");
+        courseText = find(currentStudent + "_" + entry + "_Text");
+        stdDevBorder = find(currentStudent + "_" + entry + "_StdDev_Border");
+        meanLine = find(currentStudent + "_" + entry + "_Mean_Line");
 
         if (initScores) {
-            highestScore = scoreBorder;
-            lowestScore = scoreBorder;
+            highestScoreBorder = scoreBorder;
+            highestScoreText = courseText;
+
+            lowestScoreBorder = scoreBorder;
+            lowestScoreText = courseText;
+
             initScores = false;
         }
 
-        if (scoreBorder.Height > highestScore.Height) { highestScore = scoreBorder; }
-        if (scoreBorder.Height < lowestScore.Height) { lowestScore = scoreBorder; }
-    });
-
-    courses.forEach(function (entry) {
-        scoreBorder = xamlPage.content.findname(currentStudent + "_" + entry + "_Score_Border");
-
-        if (scoreBorder.Name == highestScore.Name || scoreBorder.Name == lowestScore.Name) {
-            scoreBorder.visibility = "Visible";
-        } else {
-            scoreBorder.visibility = "Collapsed";
+        if (scoreBorder.Height > highestScoreBorder.Height) {
+            highestScoreBorder = scoreBorder;
+            highestScoreText = courseText;
+        }
+        if (scoreBorder.Height < lowestScoreBorder.Height) {
+            lowestScoreBorder = scoreBorder;
+            lowestScoreText = courseText;
         }
     });
+}
+/////////////////
+// min and max //
+/////////////////
 
-    minMaxBorder = xamlPage.content.findname("Min_Max");
-    minMaxBorder.text = minMaxToggled ? "Alle vakken" : "Minimum en maximum";
+///////////////////
+// student block //
+///////////////////
+function exposeStudentBlock() {
+    findExposeElement(currentStudent + "_Student_Block");
+}
+function hideStudentBlock() {
+    findHideElement(currentStudent + "_Student_Block");
 }
 function toggleStudentBlock() {
-    studentBlock = currentStudent + "_Student_Block";
-    currentVisibility = xamlPage.content.findname(studentBlock).visibility;
-    toggleElement(studentBlock);
+    toggleElement(currentStudent + "_Student_Block");
+}
+///////////////////
+// student block //
+///////////////////
+
+////////////
+// scores //
+////////////
+function exposeScores() {
+    hideScores();
+
+    courses.forEach(function (entry) {
+        scoreBorder = currentStudent + "_" + entry + "_Score_Border";
+        courseText = currentStudent + "_" + entry + "_Text";
+        stdDevBorder = currentStudent + "_" + entry + "_StdDev_Border";
+        meanLine = currentStudent + "_" + entry + "_Mean_Line";
+
+        if (minMaxFocused && meansStdDevsExposed) {
+            if (scoreBorder == highestScoreBorder.Name || scoreBorder == lowestScoreBorder.Name) {
+                findExposeElement(scoreBorder);
+                findExposeElement(courseText);
+                findExposeElement(stdDevBorder);
+                findExposeElement(meanLine);
+            }
+        } else if (minMaxFocused && !meansStdDevsExposed) {
+            if (scoreBorder == highestScoreBorder.Name || scoreBorder == lowestScoreBorder.Name) {
+                findExposeElement(scoreBorder);
+                findExposeElement(courseText);
+            }
+        } else if (!minMaxFocused && meansStdDevsExposed) {
+            findExposeElement(scoreBorder);
+            findExposeElement(courseText);
+            findExposeElement(stdDevBorder);
+            findExposeElement(meanLine);
+        } else {    // !minMaxFocused && !meansStdDevsExposed
+            findExposeElement(scoreBorder);
+            findExposeElement(courseText);
+        }
+    });
+}
+function hideScores() {
+    courses.forEach(function (entry) {
+        scoreBorder = currentStudent + "_" + entry + "_Score_Border";
+        courseText = currentStudent + "_" + entry + "_Text";
+        stdDevBorder = currentStudent + "_" + entry + "_StdDev_Border";
+        meanLine = currentStudent + "_" + entry + "_Mean_Line";
+
+        findHideElement(scoreBorder);
+        findHideElement(courseText);
+        findHideElement(stdDevBorder);
+        findHideElement(meanLine);
+    });
 }
 function toggleScores() {
     courses.forEach(function (entry) {
@@ -91,14 +202,49 @@ function toggleScores() {
         toggleElement(courseText);
     });
 }
+////////////
+// scores //
+////////////
 
+////////////////
+// visibility //
+////////////////
+function exposeElement(element) {
+    element.visibility = "Visible";
+}
+function hideElement(element) {
+    element.visibility = "Collapsed";
+}
+function findExposeElement(element) {
+    find(element).visibility = "Visible";
+}
+function findHideElement(element) {
+    find(element).visibility = "Collapsed";
+}
 function toggleElement(element) {
-    xamlPage.content.findname(element).visibility = currentVisibility == "Visible" ? "Collapsed" : "Visible";
+    element.visibility == "Visible" ? hideElement(element) : exposeElement(element);
 }
+////////////////
+// visibility //
+////////////////
 
-// also serves as reset function
-function toggle() {
-    toggleStudentBlock();
-    toggleScores();
-    if (!meansStdDevsToggled) { toggleMeansStdDevs(); }
+//////////////////
+// page control //
+//////////////////
+function set() {
+    meansStdDevsExposed = true;
+
+    setMinMax();
+    exposeStudentBlock();
+    exposeScores();
 }
+function reset() {
+    hideStudentBlock();
+    hideScores();
+}
+function find(element) {
+    return xamlPage.content.findname(element);
+}
+//////////////////
+// page control //
+//////////////////
