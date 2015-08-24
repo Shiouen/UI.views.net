@@ -1,0 +1,603 @@
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharp.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharp.pdb
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\AppManifest.xaml
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharp.xap
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharpTestPage.html
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.xml
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\obj\Debug\App.g.i.cs
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\obj\Debug\Views\ErrorWindow.g.i.cs
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\obj\Debug\Views\Bigrams.g.i.cs
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\obj\Debug\Views\Vowels.g.i.cs
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\obj\Debug\MainPage.g.i.cs
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\obj\Debug\SilverlightCSharp.g.resources
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\obj\Debug\SilverlightCSharp.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\obj\Debug\SilverlightCSharp.pdb
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp\SilverlightCSharp\SilverlightCSharp\obj\Debug\XapCacheFile.xml
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharp.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharp.pdb
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\AppManifest.xaml
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharp.xap
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharpTestPage.html
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.xml
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\obj\Debug\App.g.i.cs
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\obj\Debug\Views\ErrorWindow.g.i.cs
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\obj\Debug\Views\Vowels.g.i.cs
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\obj\Debug\MainPage.g.i.cs
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\obj\Debug\SilverlightCSharp.g.resources
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\obj\Debug\SilverlightCSharp.dll
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\obj\Debug\SilverlightCSharp.pdb
+C:\Users\LocalAdmin\Dropbox\Xml\PraktijkOpdracht\PraktijkOpdrachtProjecten\CSharp PO\SilverlightCSharp\SilverlightCSharp\obj\Debug\XapCacheFile.xml
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharp.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharp.pdb
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\AppManifest.xaml
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharp.xap
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharpTestPage.html
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.xml
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\App.g.i.cs
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\Views\ErrorWindow.g.i.cs
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\Views\Oefeningen.g.i.cs
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\MainPage.g.i.cs
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\SilverlightCSharp.g.resources
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\SilverlightCSharp.dll
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\SilverlightCSharp.pdb
+C:\Users\LocalAdmin\Dropbox\Xml\Week 11\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\XapCacheFile.xml
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharp.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharp.pdb
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\AppManifest.xaml
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharp.xap
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharpTestPage.html
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.xml
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\App.g.i.cs
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\Views\ErrorWindow.g.i.cs
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\Views\Oefeningen.g.i.cs
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\MainPage.g.i.cs
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\SilverlightCSharp.g.resources
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\SilverlightCSharp.dll
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\SilverlightCSharp.pdb
+C:\Users\smeth\Dropbox\Xml\Week 10\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\XapCacheFile.xml
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharp.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharp.pdb
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\AppManifest.xaml
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharp.xap
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharpTestPage.html
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.xml
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\SilverlightCSharp.csprojResolveAssemblyReference.cache
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\App.g.cs
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\Views\ErrorWindow.g.cs
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\Views\Oefeningen.g.cs
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\MainPage.g.cs
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\SilverlightCSharp.g.resources
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\SilverlightCSharp.dll
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\SilverlightCSharp.pdb
+C:\Users\smeth\Dropbox\XmlTechnologie\Week 9\Oefeningen\CSharp Oefenproject\SilverlightCSharp\SilverlightCSharp\obj\Debug\XapCacheFile.xml
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharp.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharp.pdb
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\AppManifest.xaml
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharp.xap
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\SilverlightCSharpTestPage.html
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.xml
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\obj\Debug\SilverlightCSharp.csprojResolveAssemblyReference.cache
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\obj\Debug\App.g.cs
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\obj\Debug\Views\ErrorWindow.g.cs
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\obj\Debug\Views\Oefeningen.g.cs
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\obj\Debug\MainPage.g.cs
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\obj\Debug\SilverlightCSharp.g.resources
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\obj\Debug\SilverlightCSharp.dll
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\obj\Debug\SilverlightCSharp.pdb
+C:\Users\smeth\Dropbox\UI2\Week 10\CSharp Sjabloon\SilverlightCSharp\SilverlightCSharp\obj\Debug\XapCacheFile.xml
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\SilverlightCSharp.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\SilverlightCSharp.pdb
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\AppManifest.xaml
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\SilverlightCSharp.xap
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\SilverlightCSharpTestPage.html
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\System.Windows.Controls.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\System.Windows.Controls.xml
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\obj\Debug\SilverlightCSharp.csprojResolveAssemblyReference.cache
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\obj\Debug\App.g.cs
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\obj\Debug\Views\ErrorWindow.g.cs
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\obj\Debug\Views\Oefeningen.g.cs
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\obj\Debug\SilverlightCSharp.g.resources
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\obj\Debug\SilverlightCSharp.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\obj\Debug\SilverlightCSharp.pdb
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Les\SilverlightCSharp\obj\Debug\XapCacheFile.xml
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\SilverlightCSharp.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\SilverlightCSharp.pdb
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\AppManifest.xaml
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\SilverlightCSharp.xap
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\SilverlightCSharpTestPage.html
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\System.Windows.Controls.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\System.Windows.Controls.xml
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\obj\Debug\App.g.cs
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\obj\Debug\Views\ErrorWindow.g.cs
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\obj\Debug\Views\Oefeningen.g.cs
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\obj\Debug\SilverlightCSharp.g.resources
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\obj\Debug\SilverlightCSharp.dll
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\obj\Debug\SilverlightCSharp.pdb
+C:\OneDrive\Documenten\KdG\AJ14-15\User Interfaces 2\Week 10\Slides\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\obj\Debug\XapCacheFile.xml
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\SilverlightCSharp.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\SilverlightCSharp.pdb
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\AppManifest.xaml
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\SilverlightCSharp.xap
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\SilverlightCSharpTestPage.html
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\System.Windows.Controls.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\System.Windows.Controls.xml
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\obj\Debug\SilverlightCSharp.csprojResolveAssemblyReference.cache
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\obj\Debug\App.g.cs
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\obj\Debug\Views\ErrorWindow.g.cs
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\obj\Debug\Views\Oefeningen.g.cs
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\obj\Debug\SilverlightCSharp.g.resources
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\obj\Debug\SilverlightCSharp.dll
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\obj\Debug\SilverlightCSharp.pdb
+C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\SilverlightCSharp\obj\Debug\XapCacheFile.xml
+C:\Users\Olivier\Development\Repositories\UI.views.net\CompetenceView\SilverlightCSharp Sjabloon CompetenceView\SilverlightCSharp\obj\Debug\SilverlightCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Olivier\Development\Repositories\UI.views.net\CompetenceView\SilverlightCSharp Sjabloon CompetenceView\SilverlightCSharp\obj\Debug\App.g.cs
+C:\Users\Olivier\Development\Repositories\UI.views.net\CompetenceView\SilverlightCSharp Sjabloon CompetenceView\SilverlightCSharp\obj\Debug\Views\ErrorWindow.g.cs
+C:\Users\Olivier\Development\Repositories\UI.views.net\CompetenceView\SilverlightCSharp Sjabloon CompetenceView\SilverlightCSharp\obj\Debug\SilverlightCSharp.g.resources
