@@ -56,6 +56,6 @@ C:\temp\SilverlightCSharp Gestript sjabloon\SilverlightCSharp Gestript sjabloon\
 C:\Users\Olivier\Development\Repositories\UI.views.net\CompetenceView\SilverlightCSharp Sjabloon CompetenceView\SilverlightCSharp.Web\bin\SilverlightCSharp.Web.dll.config
 C:\Users\Olivier\Development\Repositories\UI.views.net\CompetenceView\SilverlightCSharp Sjabloon CompetenceView\SilverlightCSharp.Web\bin\SilverlightCSharp.Web.dll
 C:\Users\Olivier\Development\Repositories\UI.views.net\CompetenceView\SilverlightCSharp Sjabloon CompetenceView\SilverlightCSharp.Web\bin\SilverlightCSharp.Web.pdb
-C:\Users\Olivier\Development\Repositories\UI.views.net\CompetenceView\SilverlightCSharp Sjabloon CompetenceView\SilverlightCSharp.Web\obj\Debug\SilverlightCSharp.Web.csprojResolveAssemblyReference.cache
 C:\Users\Olivier\Development\Repositories\UI.views.net\CompetenceView\SilverlightCSharp Sjabloon CompetenceView\SilverlightCSharp.Web\obj\Debug\SilverlightCSharp.Web.dll
 C:\Users\Olivier\Development\Repositories\UI.views.net\CompetenceView\SilverlightCSharp Sjabloon CompetenceView\SilverlightCSharp.Web\obj\Debug\SilverlightCSharp.Web.pdb
+C:\Users\Olivier\Development\Repositories\UI.views.net\CompetenceView\SilverlightCSharp Sjabloon CompetenceView\SilverlightCSharp.Web\obj\Debug\SilverlightCSharp.Web.csprojResolveAssemblyReference.cache
